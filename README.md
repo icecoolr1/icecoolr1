@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @icecoolr1
-- 👀 I’m interested in goolang and python
+- 👀 I’m interested in Go and python
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on Cv
 - 📫 How to reach me qq987286912@163.com
